@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/c5/Roasted_coffee_beans.jpg");
+
+}
+h1{
+    color:red;
+    font-style: arial;
+    text-align: center;
+    font-size: 20px;
+    background-color: yellow;
+    border-color: black;
+    border-style: solid;
+}
+
+p{
+    color: gray;
+    text-align: center;
+    background-color: yellow;
+    border-color: black;
+    border-style: solid;
+    margin: 10px;
+}
+
+div{
+    
+    text-align: center;
+    border-style: solid;
+    border: 1px; 
+    padding: 10px;
+    background-color: yellow;
+    border-color: black;
+    border-style: solid;
+}
+
+
